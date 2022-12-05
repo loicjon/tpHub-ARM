@@ -1,6 +1,8 @@
 # tpHub-ARM
 
-![Hub](./Hub.drawio.png)
+![Hub](./Hub.drawio.png)  
+
+__https://github.com/loicjon/hubDeploymentPipeline-repo__
 
 1. Adresse Ip :
 
@@ -31,4 +33,4 @@
 
 3. Résultats  
 
-![Ressources](./ressourcesAzure.png) ![ressource](./WEULBURSGZZZF00.png) ![Schedule](./schedule.png) ![pipeline](./pipeline.png) ![pipeline2](./pipeline2.png)
+![Ressources](./ressourcesAzure.png) ![ressource](./WEULBURSGZZZF00.png) ![Schedule](./schedule.png) ![pipeline](./pipeline.png) ![pipeline2](./pipeline2.png) [arm](./arm.png)
