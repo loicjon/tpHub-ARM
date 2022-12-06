@@ -33,4 +33,4 @@ __https://github.com/loicjon/hubDeploymentPipeline-repo__
 
 3. Résultats  
 
-![Ressources](./ressourcesAzure.png) ![ressource](./WEULBURSGZZZF00.png) ![Schedule](./schedule.png) ![pipeline](./pipeline.png) ![pipeline2](./pipeline2.png) [arm](./arm.png)
+![Ressources](./ressourcesAzure.png) ![ressource](./WEULBURSGZZZF00.png) ![Schedule](./schedule.png) ![pipeline](./pipeline.png) ![pipeline2](./pipeline2.png) ![arm](./arm.png)
